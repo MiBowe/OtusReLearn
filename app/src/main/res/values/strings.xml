@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">OtusReLearn</string>
+    <string name="details">Детали</string>
+    <string name="film1">Кратер</string>
+    <string name="film2">Белая птица</string>
+    <string name="film1details">Это фильм про кратер</string>
+    <string name="film2details">Что-то про птицу, которая белая</string>
 </resources>
